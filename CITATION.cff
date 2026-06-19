@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use NEXUS Method in research or production decision-making, please cite as below."
+type: software
+title: "NEXUS Method: Networked Expert Understanding Synthesis"
+authors:
+  - family-names: Gowthaman
+    given-names: N
+    alias: GowthamLabs
+    website: "https://www.linkedin.com/in/ngowthaman/"
+abstract: >-
+  NEXUS is a 7-phase, 9-archetype research method that turns any AI chat
+  into a structured expert panel for executive decision-making. Inspired
+  by Stanford STORM (NAACL 2024) but redesigned for decision-making rather
+  than article generation, NEXUS adds an Adversarial Dialectic Engine,
+  explicit confidence grading, temporal scenario synthesis, and an optional
+  Polymath Mode for cross-domain breakthrough analysis.
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/GowthamLabs/nexus-method"
+keywords:
+  - artificial intelligence
+  - decision making
+  - multi-agent systems
+  - research methodology
+  - polymath thinking
+  - mental models
+  - confidence calibration
+references:
+  - type: article
+    authors:
+      - family-names: Shao
+        given-names: Yijia
+      - family-names: Jiang
+        given-names: Yucheng
+      - family-names: Kanell
+        given-names: Theodore A.
+      - family-names: Xu
+        given-names: Peter
+      - family-names: Khattab
+        given-names: Omar
+      - family-names: Lam
+        given-names: Monica S.
+    title: "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models"
+    year: 2024
+    conference:
+      name: "NAACL 2024"
+    url: "https://arxiv.org/abs/2402.14207"
