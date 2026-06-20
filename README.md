@@ -99,7 +99,7 @@ Three worked examples in `examples/` demonstrate Polymath Mode produces insights
 
 ---
 
-## 🆚 NEXUS vs STORM — Honest Positioning
+## 🆚 NEXUS vs STORM — Positioning Nexus
 
 NEXUS **stands on STORM's shoulders**. STORM proved multi-perspective AI research is structurally superior to single-shot prompting. NEXUS extends that insight from *article generation* into *executive decision-making* — adding adversarial debate, confidence grading, temporal scenarios, and domain tuning.
 
